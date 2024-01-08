@@ -1,2 +1,2 @@
 # L2_MACHINE_LEARNING
-Machine Learning exercises (Année : L2)
+Machine Learning Projects (Année : L2)
